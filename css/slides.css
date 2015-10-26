@@ -25,7 +25,7 @@ section font.orange {
 }
 
 section img {
-    max-height: 75%!important;
+    max-height: 75vh!important;
 }
 
 section img.nodecorations {
@@ -35,9 +35,9 @@ section img.nodecorations {
 }
 
 section img.small {
-	max-height: 45%!important;
+	max-height: 45vh!important;
 }
 
 section img.medium {
-	max-height: 60%!important;
+	max-height: 60vh!important;
 }
